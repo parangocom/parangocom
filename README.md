@@ -1,5 +1,9 @@
-## Hi there 👋
+### Personal profile
 
+Digital Humanities Master's student specializing in statistical analysis and machine learning, with an interdisciplinary background in anthropology and research data management. Practical experience in Python, Pandas, Matplotlib, SQL, data preparation and data quality assessment. Academic experience with supervised and unsupervised machine learning, statistical methods and model evaluation. Strong interest in player behaviour, consumer data and the video game industry.
+
+### Ongoing personal projects :
+- calabozo-andino : Very basic text-based adventure game inspired by Colombian culture 🇨🇴 
 <!--
 **parangocom/parangocom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
